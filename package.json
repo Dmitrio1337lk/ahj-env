@@ -1,0 +1,16 @@
+{
+  "name": "ahj-homeworks",
+  "version": "1.0.0",
+  "description": "* [x] [Рабочее окружение](/env)\r * [x] [DOM](/dom)\r * [x] [Events](/events)\r * [x] [Testing](/testing)\r * [x] [Forms](/forms)\r * [x] [DnD](/dnd)\r * [x] [HTTP](/http)\r * [x] [SSE, WS](/sse-ws)\r * [x] [Animations](/anim)\r * [x] [Geolocation, Notification, Media](/geo)\r * [x] [RxJS](/rxjs)\r * [x] [Web Workers, Service Workers](/workers)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/Dmitrio1337lk/ahj-homeworks.git",
+  "author": "Dmitrio Idrisov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dmitrio1337lk/ahj-homeworks/issues"
+  },
+  "homepage": "https://github.com/Dmitrio1337lk/ahj-homeworks#readme"
+}
